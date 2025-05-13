@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="./profile.gif"/>
+<img align="right" style="object-fit:contain;" height="100" src="./profile.gif"/>
 
 ###
 
