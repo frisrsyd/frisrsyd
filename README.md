@@ -11,6 +11,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frisrsyd" alt="frisrsyd" /></a> </p>
 
