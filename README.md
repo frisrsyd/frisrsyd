@@ -29,6 +29,8 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mendesain Fitur Integrasi Marketplace dan Logistik Krealolgi — UX Case Study](https://medium.com/@frisrsyd/mendesain-fitur-integrasi-marketplace-dan-logistik-krealolgi-ux-case-study-e955f4353e83?source=rss-9a1b78133ca4------2)
+- [Go Learn — UX Case Study](https://medium.com/@frisrsyd/go-learn-ux-case-study-364d3c48d451?source=rss-9a1b78133ca4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
