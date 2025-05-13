@@ -1,23 +1,26 @@
 ![Header](./github-header-image.png)
 
 <br clear="both">
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <a href="https://frisrsyd.github.io/Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&pause=100&center=true&vCenter=true&width=200&lines=Web+Developer;Android+Developer;UI/UX+Designer+Software+Tester" alt="Typing SVG" /></a>
 <img align="right" style="object-fit:contain;" height="100" src="./profile.gif"/>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/frisrsyd/count.svg?"  />
+  
 </div>
 
 ###
+
 <br clear="both">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frisrsyd" alt="frisrsyd" /></a> </p>
 
 - 🔭 I’m currently working at [PT. Sazanka Henig Solusi](https://sazankahenig.com)
 
-- 👨‍💻 All of my projects are available at [Mye Portfolio page](frisrsyd.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [Mye Portfolio page](https://frisrsyd.github.io/Portfolio)
 
 - 📫 How to reach me [frisrsyd@gmail.com](mailto:frisrsyd@gmail.com)
 
