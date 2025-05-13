@@ -2,12 +2,12 @@
 
 <br clear="both">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://frisrsyd.github.io/Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&pause=100&center=true&vCenter=true&width=200&lines=Web+Developer;Android+Developer;UI/UX+Designer+Software+Tester" alt="Typing SVG" /></a>
+    <a href="https://frisrsyd.github.io/Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=100&center=true&vCenter=true&width=300&lines=Web+Developer;Android+Developer;UI/UX+Designer;Software+Tester" alt="Typing SVG" /></a>
 <img align="right" style="object-fit:contain;" height="100" src="./profile.gif"/>
 
 ###
 
-<div align="center">
+<div align="center" width="300">
   <img src="https://profile-counter.glitch.me/frisrsyd/count.svg?"  />
   
 </div>
