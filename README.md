@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working at [PT. Sazanka Henig Solusi](https://sazankahenig.com)
 
-- 👨‍💻 All of my projects are available at [Mye Portfolio page](https://frisrsyd.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio page](https://frisrsyd.tech)
 
 - 📫 How to reach me [frisrsyd@gmail.com](mailto:frisrsyd@gmail.com)
 
