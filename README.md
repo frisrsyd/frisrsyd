@@ -7,10 +7,10 @@
 
 ###
 
-<div align="center" width="300">
+<!-- <div align="center" width="300">
   <img src="https://profile-counter.glitch.me/frisrsyd/count.svg?"  />
   
-</div>
+</div> -->
 
 ###
 
@@ -51,7 +51,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=frisrsyd&show_icons=true&locale=en&theme=prussian" alt="frisrsyd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frisrsyd&theme=prussian" alt="frisrsyd" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frisrsyd&theme=prussian" alt="frisrsyd" /></p> -->
 
 ###
 
