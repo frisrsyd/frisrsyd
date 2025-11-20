@@ -42,7 +42,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,adonis,vue,laravel,django,ts,js,html,css,php,kotlin,java,python,c,nginx,nodejs,mysql,mongodb,tailwind,bootstrap,materialui,figma,docker,aws,azure,firebase,git,gitlab,github,linux,postman,npm,windows,latex,androidstudio,vercel,vscode,tensorflow,kali&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,adonis,vue,laravel,django,express,ts,js,html,css,php,kotlin,java,python,c,nginx,nodejs,mysql,mongodb,tailwind,bootstrap,materialui,figma,docker,aws,azure,firebase,git,gitlab,github,linux,postman,npm,windows,latex,androidstudio,vercel,vscode,tensorflow,kali&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/frisrsyd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="frisrsyd" /></a></p><br><br>
