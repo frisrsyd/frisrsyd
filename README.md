@@ -24,7 +24,7 @@
 
 - 📫 How to reach me [frisrsyd@gmail.com](mailto:frisrsyd@gmail.com)
 
-- 📄 Know about my experiences on my [Curriculum Vitae](https://drive.google.com/file/d/136XREJqJg0eEOIPXGT6_NBe5AdeTo98y/view?usp=sharing)
+- 📄 Know about my experiences on my [Curriculum Vitae](https://drive.google.com/file/d/1MSLFCKOtE7Yl66OuXwa-BdWpS5Xz9cCE/view?usp=sharing)
 
 ### Blogs posts
 
